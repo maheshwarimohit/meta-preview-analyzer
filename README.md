@@ -1,6 +1,7 @@
 👁 Meta Preview Analyzer
 A lightweight CLI tool that extracts meta title, description, Open Graph & Twitter Card tags from any webpage.
-<p align="center"> <img src="[https://raw.githubusercontent.com/maheshwarimohit/meta-preview-analyzer/main/assets/preview-banner.png](https://socioblend.com/apple-touch-icon.png)" width="100"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/maheshwarimohit/meta-preview-analyzer/main/assets/socioblend-logo.png" width="100"/> </p>
+
 🚀 What this tool does
 Extracts	Meta Data
 🔥 Title <title>	📝 Meta Description
