@@ -57,7 +57,6 @@ npm run analyze https://example.com
 Powered by
 <a href="https://socioblend.com/" target="_blank"> <img src="https://socioblend.com/assets/images/default-og.jpg" width="180" /> </a>
 
-Socioblend — Grow your presence across Social Media.
 
 </div>
 ⭐ Support & Contributions
