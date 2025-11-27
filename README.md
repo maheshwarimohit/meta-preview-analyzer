@@ -1,9 +1,8 @@
 👁 Meta Preview Analyzer
 A lightweight CLI tool that extracts meta title, description, Open Graph & Twitter Card tags from any webpage.
-<a href="https://socioblend.com/" target="_blank"> <img src="[https://socioblend.com/assets/images/default-og.jpg]" width="180" /> </a>
+<a href="https://socioblend.com/" target="_blank"> <img src="https://socioblend.com/apple-touch-icon.png" width="100" /> </a>
 
 🚀 What this tool does?
-
 Extracts	Meta Data
 🔥 Title <title>	📝 Meta Description
 🖼 OG Image	🌐 OG Type
