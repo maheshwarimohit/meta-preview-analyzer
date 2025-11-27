@@ -1,19 +1,71 @@
-# Meta Preview Analyzer
+👁 Meta Preview Analyzer
+A lightweight CLI tool that extracts meta title, description, Open Graph & Twitter Card tags from any webpage.
+<p align="center"> <img src="https://raw.githubusercontent.com/maheshwarimohit/meta-preview-analyzer/main/assets/preview-banner.png" width="650"/> </p>
+🚀 What this tool does
+Extracts	Meta Data
+🔥 Title <title>	📝 Meta Description
+🖼 OG Image	🌐 OG Type
+🐦 Twitter Card	🐦 Twitter Image
 
-A tiny CLI tool to inspect a webpage’s:
+Perfect for:
 
-- HTML `<title>`
-- meta description
-- Open Graph tags (Facebook / LinkedIn)
-- Twitter Card tags (X / Twitter)
+✔ SEO auditing
+✔ Social preview checks
+✔ Content analysis
+✔ Browserless meta extraction
 
-Useful for quickly checking how a URL will appear when shared on social platforms.
+📦 Install & Use
+npx meta-preview-analyzer <url>
 
----
 
-## Installation (local)
+Example:
 
-Clone or download this repository, then inside the project folder run:
+npx meta-preview-analyzer https://socioblend.com/free-tiktok-likes
 
-```bash
+
+Output:
+
+{
+  "url": "https://socioblend.com/free-tiktok-likes",
+  "title": "Get Free TikTok Likes | Fast | No Password | - SocioBlend",
+  "description": "Get free TikTok likes instantly. No login, no password...",
+  "ogType": "website",
+  "ogImage": "https://socioblend.com/img_upload/free-tiktok-likes.png",
+  "twitterCard": "summary_large_image",
+  "twitterImage": "https://socioblend.com/img_upload/free-tiktok-likes.png"
+}
+
+⚙ Local Development
+git clone https://github.com/maheshwarimohit/meta-preview-analyzer.git
+cd meta-preview-analyzer
 npm install
+npm run analyze https://example.com
+
+🔥 Roadmap
+
+ Add screenshot preview generation
+
+ Export results to .json, .csv
+
+ Web dashboard version
+
+ Browser extension plugin
+
+💛 Our Sponsors
+<div align="center">
+Powered by
+<a href="https://socioblend.com/" target="_blank"> <img src="https://socioblend.com/assets/images/default-og.jpg" width="180" /> </a>
+
+Socioblend — Grow your presence across Social Media.
+
+</div>
+⭐ Support & Contributions
+
+If you like this tool, star it!
+Your support motivates future features.
+
+⭐ gitHub.com/maheshwarimohit/meta-preview-analyzer
+
+
+Want your brand featured in Sponsors Section?
+→ Open an Issue or email unbreakablemohit@gmail.com
