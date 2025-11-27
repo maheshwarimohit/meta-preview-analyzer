@@ -1,0 +1,22 @@
+{
+  "name": "meta-preview-analyzer",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bin": {
+  "meta-preview": "src/index.js"
+},
+
+  "scripts": {
+    "analyze": "node src/index.js"
+  },
+  "keywords": [
+    "seo",
+    "open-graph",
+    "meta-tags",
+    "twitter-card",
+    "social-preview"
+  ],
+  "author": "Mohit",
+  "license": "MIT",
+  "description": "CLI tool to inspect a webpage's title, meta description, Open Graph and Twitter Card tags."
+}
