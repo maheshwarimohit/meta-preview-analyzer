@@ -1,60 +1,53 @@
 Meta Preview Analyzer
 
-Lightweight CLI that extracts Title, Meta Description, Open Graph, and Twitter Card tags from any webpage.
-Great for SEO, social previews, audits, and content discovery.
+Meta tags extractor for SEO, OG tags and Twitter Cards — all from the CLI.
 
-🔥 Features
-What it fetches	Tags Covered
-Page SEO Meta	<title>, <meta name="description">
-Social Preview Data	OG Image / Type, Twitter Card / Image
-Browserless Extraction	No rendering needed
-📦 Installation & Usage
-Run instantly (no install):
+<p align="center"> <img src="assets/banner.png" width="85%"> </p> <p align="center"> <img src="https://img.shields.io/npm/v/meta-preview-analyzer" /> <img src="https://img.shields.io/npm/dt/meta-preview-analyzer" /> <img src="https://img.shields.io/github/stars/maheshwarimohit/meta-preview-analyzer?style=social" /> <img src="https://img.shields.io/badge/license-MIT-green" /> </p>
+🔥 What it does
+Extracts	Meta Tags Covered
+SEO Metadata	<title>, <meta name="description">
+Social Previews	OG Image / Type / URL
+Twitter Cards	Summary, summary_large_image
+🚀 Quick Use
 npx meta-preview-analyzer <url>
 
+
 Example:
+
 npx meta-preview-analyzer https://socioblend.com/free-tiktok-likes
 
+{ "title": "Get Free TikTok Likes...", "ogImage": "...png", "twitterCard": "summary_large_image" }
 
-Output
-
-{
-  "url": "https://socioblend.com/free-tiktok-likes",
-  "title": "Get Free TikTok Likes | Fast | No Password | - SocioBlend",
-  "description": "Get free TikTok likes instantly. No login, no password...",
-  "ogType": "website",
-  "ogImage": "https://socioblend.com/img_upload/free-tiktok-likes.png",
-  "twitterCard": "summary_large_image",
-  "twitterImage": "https://socioblend.com/img_upload/free-tiktok-likes.png"
-}
-
-⚙ Local Development
+🔧 Dev Setup
 git clone https://github.com/maheshwarimohit/meta-preview-analyzer.git
 cd meta-preview-analyzer
 npm install
 npm run analyze <url>
 
+<p align="center"> <img src="assets/demo.gif" width="70%"> </p>
 🔮 Roadmap
 
-Screenshot preview generation
+Screenshot preview extraction
 
-Export to .json, .csv
+JSON / CSV export
 
-Web UI Dashboard
+Web Dashboard
 
-Browser Extension
+Browser extension
 
-If you want any one of these fast tracked — contribute or sponsor the feature.
+Contributions welcome.
 
 💛 Sponsors
 
-Currently seeking early sponsors.
+To feature your brand:
 
-🚀 To sponsor → open an issue or email unbreakablemohit@gmail.com
+📩 unbreakablemohit@gmail.com
 
-⭐ Support
+📂 Open an Issue
 
-If this saved you time, star the repo.
-Stars push this tool further than you think.
+⭐ Contribute
 
-🔗 Repo: github.com/maheshwarimohit/meta-preview-analyzer
+If this tool helped — star it.
+It pushes development further.
+
+🔗 github.com/maheshwarimohit/meta-preview-analyzer
