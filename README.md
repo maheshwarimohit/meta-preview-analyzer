@@ -49,7 +49,6 @@ If you want any one of these fast tracked — contribute or sponsor the feature.
 💛 Sponsors
 
 Currently seeking early sponsors.
-Your logo + link could be here.
 
 🚀 To sponsor → open an issue or email unbreakablemohit@gmail.com
 
