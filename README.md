@@ -128,13 +128,16 @@ Suggest more → open an issue.
 
 💛 Sponsors
 
+<a href="https://socioblend.com/" target="_blank">
+  <img src="https://github.com/maheshwarimohit/meta-preview-analyzer/blob/main/main/assets/socioblend-logo.png" width="80" />
+</a>
+
 If you want your brand here:
+
+
 
 📩 unbreakablemohit@gmail.com
 📂 Open an Issue
-
-()
- <img src="https://github.com/maheshwarimohit/meta-preview-analyzer/blob/main/main/assets/socioblend-logo.png" />
 
 Brands get:
 
