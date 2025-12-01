@@ -133,8 +133,8 @@ If you want your brand here:
 📩 unbreakablemohit@gmail.com
 📂 Open an Issue
 
-(https://github.com/maheshwarimohit/meta-preview-analyzer/blob/main/main/assets/socioblend-logo.png)
-
+()
+ <img src="https://github.com/maheshwarimohit/meta-preview-analyzer/blob/main/main/assets/socioblend-logo.png" />
 
 Brands get:
 
