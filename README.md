@@ -115,24 +115,43 @@ npm run analyze <url>
 npm test
 
 Check	Status
+
 Tag extraction	✔
+
 Missing/fallback tags	✔
+
 Invalid/non-HTML pages	✔
+
 Non-200 responses	Pending
+
 Rate limit resilience	Roadmap
+
 🐛 Troubleshooting
+
 Issue	Reason
+
 Empty metadata fields	Site has no OG/Twitter tags
+
 No OG image	Twitter image may still exist
+
 HTTPS errors	Use proxy or retry later
+
 Works in browser but not CLI	Servers block non-browser user agents (spoofing planned)
+
 🔮 Roadmap
+
 Feature	Priority
+
 Screenshot Preview Rendering	⭐⭐
+
 Export JSON + CSV	⭐⭐
+
 Batch mode (--file=urls.txt)	⭐⭐⭐
+
 Web Dashboard UI	⭐⭐⭐
+
 Browser Extension	⭐⭐⭐⭐
+
 Caching for speed	⭐
 
 Raise feature requests → GitHub Issues
