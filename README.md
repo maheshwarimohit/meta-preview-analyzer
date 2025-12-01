@@ -2,7 +2,7 @@ Meta Preview Analyzer
 
 Simple CLI to extract Title, Description, Open Graph & Twitter Card metadata from any public URL.
 
-<p align="center"> <img src="assets/banner.png" width="90%"> </p> <p align="center"> <img src="https://img.shields.io/npm/v/meta-preview-analyzer" /> <img src="https://img.shields.io/npm/dm/meta-preview-analyzer" /> <img src="https://img.shields.io/github/stars/maheshwarimohit/meta-preview-analyzer?style=social" /> <img src="https://img.shields.io/badge/license-MIT-green" /> </p>
+<p align="center">  <img src="https://img.shields.io/github/stars/maheshwarimohit/meta-preview-analyzer?style=social" /> <img src="https://img.shields.io/badge/license-MIT-green" /> </p>
 🔥 Why this exists
 
 Most crawlers scrape entire pages, load browser engines, or require API keys.
@@ -133,7 +133,7 @@ If you want your brand here:
 📩 unbreakablemohit@gmail.com
 📂 Open an Issue
 
-[Sponsor Logo 1]   [Sponsor Logo 2]   [Sponsor Logo 3]
+(https://github.com/maheshwarimohit/meta-preview-analyzer/blob/main/main/assets/socioblend-logo.png)
 
 
 Brands get:
