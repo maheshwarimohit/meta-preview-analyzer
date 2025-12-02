@@ -1,4 +1,4 @@
-Meta Preview Analyzer
+<h1 align="center">Meta Preview Analyzer</h1>
 
 A lightweight Node.js CLI that extracts Title, Meta Description, Open Graph tags, and Twitter Card metadata from any public webpage.
 
