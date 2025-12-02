@@ -1,5 +1,9 @@
 <h1 align="center">Meta Preview Analyzer</h1>
 
+<p align="center">
+  <img src="https://github.com/maheshwarimohit/meta-preview-analyzer/blob/main/main/assets/meta-preview-analyzer.png" />
+</p>
+
 A lightweight Node.js CLI that extracts Title, Meta Description, Open Graph tags, and Twitter Card metadata from any public webpage.
 
 If you share URLs on social media, publish blog content, or audit SEO for clients, metadata matters. A broken preview kills clicks. This tool checks everything instantly from the terminal.
